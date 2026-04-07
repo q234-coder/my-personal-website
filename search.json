@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "陈思阳的个人主页",
+    "section": "",
+    "text": "这是我用Quarto制作的课程作业个人网站。\n\n\n\n学号: 2025303110110\n姓名: 陈思阳\n专业: 植物营养学"
+  },
+  {
+    "objectID": "index.html#基本信息",
+    "href": "index.html#基本信息",
+    "title": "陈思阳的个人主页",
+    "section": "",
+    "text": "学号: 2025303110110\n姓名: 陈思阳\n专业: 植物营养学"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "我是陈思阳，植物营养学专业的学生，目前正在学习Quarto文学化编程，完成课程个人网站作业。\n\n\n\n就读于华中农业大学资源与环境学院\n研究方向：植物营养学、大豆硫素营养相关研究\n掌握工具：Quarto、R、Python、Git、Positron\n\n\n\n\n\nGitHub：q234-coder\n邮箱：2899104485@qq.com"
+  },
+  {
+    "objectID": "about.html#学习经历",
+    "href": "about.html#学习经历",
+    "title": "关于我",
+    "section": "",
+    "text": "就读于华中农业大学资源与环境学院\n研究方向：植物营养学、大豆硫素营养相关研究\n掌握工具：Quarto、R、Python、Git、Positron"
+  },
+  {
+    "objectID": "about.html#联系方式可选",
+    "href": "about.html#联系方式可选",
+    "title": "关于我",
+    "section": "",
+    "text": "GitHub：q234-coder\n邮箱：2899104485@qq.com"
+  }
+]
